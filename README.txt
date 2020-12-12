@@ -11,12 +11,13 @@ Objetivo: Innovar en el campo de la educación orientada al mundo digital, abrie
 Información básica para ejecutar el programa:
 
 El programa necesita las siguientes librerías: Tkinter, Random, Xlrd, Time, Turtle, Keyword, Pillow, Pygame, Requests, bs4
+
 Ejecutar los siguientes comandos para instalar las siguientes librerías: Xlrd, Pillow, Pygame, Requests, bs4, webbrowser, y urlopen  
  
 pip install xlrd
 pip install pillow
 pip install pygame
-pip install request
+pip install requests
 pip install bs4
 pip install webbrowser
 pip install urlopen
