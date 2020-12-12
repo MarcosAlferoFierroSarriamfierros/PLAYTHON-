@@ -12,7 +12,7 @@ Información básica para ejecutar el programa:
 
 El programa necesita las siguientes librerías: Tkinter, Random, Xlrd, Time, Turtle, Keyword, Pillow, Pygame, Requests, bs4
 
-Ejecutar los siguientes comandos para instalar las siguientes librerías: Xlrd, Pillow, Pygame, Requests, bs4, y urlopen  
+Ejecutar los siguientes comandos para instalar las siguientes librerías: Xlrd, Pillow, Pygame, Requests, bs4, urllib3, y urlopen  
  
 pip install xlrd
 pip install pillow
