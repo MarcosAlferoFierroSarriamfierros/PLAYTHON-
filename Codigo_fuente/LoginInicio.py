@@ -352,7 +352,7 @@ def menu():
     Frame_5.config(width='1280', height='700')
     Frame_5.config(bd=20)
     Frame_5.config(relief="groove")
-    img = ImageTk.PhotoImage(Image.open("Imagenes/Opcion0.png"))
+    img = ImageTk.PhotoImage(Image.open("../recursor/Opcion0.png"))
     Frame_5.background = img
     bg = Frame_5.create_image(365, 45, anchor=tk.NW, image=img)
     img0 = ImageTk.PhotoImage(Image.open("../recursor/Entrenatucerebro.png"))
