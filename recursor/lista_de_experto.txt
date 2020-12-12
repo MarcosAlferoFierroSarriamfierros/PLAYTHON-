@@ -1,0 +1,9 @@
+cuatro
+si
+no
+formal
+False
+4
+no
+no
+|
