@@ -1,1 +1,7 @@
 xlrd==1.2.0
+bs4==0.0.1
+Pillow==8.0.1
+pygame==1.9.6
+requests==2.25.0
+urllib3==1.26.2
+
