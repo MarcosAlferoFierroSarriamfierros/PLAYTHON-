@@ -20,4 +20,5 @@ pip install pygame
 pip install requests
 pip install bs4
 pip install urlopen
+
 Registro fotográfico de PLAYTHON!
