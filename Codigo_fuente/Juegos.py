@@ -1259,7 +1259,7 @@ def paint():
     ventana.rowconfigure(0,weight=1)
     ventana.columnconfigure(0,weight=1)
     canvas=Canvas(ventana,bg="white")
-    ventana.iconbitmap("Imagenes/icono.ico")
+    ventana.iconbitmap("../recursor/icono.ico")
     canvas.grid(row=0,column=0,sticky="nsew")#Expandimos el canva en toda direccion
     menu=Menu(ventana)
     ventana.config(menu=menu)
