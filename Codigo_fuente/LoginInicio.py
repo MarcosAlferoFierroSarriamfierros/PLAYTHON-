@@ -417,7 +417,7 @@ def entrenatucerebromenu():
     Frame_6.config(width='1280', height='700')
     Frame_6.config(bd=20)
     Frame_6.config(relief="groove")
-    img = ImageTk.PhotoImage(Image.open("Imagenes/Op1.png"))
+    img = ImageTk.PhotoImage(Image.open("../recursor/Op1.png"))
     Frame_6.background = img
     bg = Frame_6.create_image(365, 45, anchor=tk.NW, image=img)
     img0 = ImageTk.PhotoImage(Image.open("../recursor/Deducciongramatical.png"))
