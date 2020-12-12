@@ -382,7 +382,7 @@ def vamosaaprender():
     Frame_7.config(width='1280', height='700')
     Frame_7.config(bd=20)
     Frame_7.config(relief="groove")
-    img = ImageTk.PhotoImage(Image.open("Imagenes/Op2.png"))
+    img = ImageTk.PhotoImage(Image.open("../recursor/Op2.png"))
     Frame_7.background = img
     bg = Frame_7.create_image(365, 45, anchor=tk.NW, image=img)
     img0 = ImageTk.PhotoImage(Image.open("../recursor/Imprimir.png"))
