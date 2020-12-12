@@ -1,0 +1,10 @@
+else:
+print()
+break
+str
+def
+rombo
+//
+si
+.upper()
+iterador

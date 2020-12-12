@@ -1,0 +1,9 @@
+if:
+input()
+elif
+ciclo
+condicional
+str
+boolean
++
+Python
